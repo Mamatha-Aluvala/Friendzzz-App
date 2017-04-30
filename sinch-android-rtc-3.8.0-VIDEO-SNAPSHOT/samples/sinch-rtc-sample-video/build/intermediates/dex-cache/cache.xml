@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/mamatha/Downloads/sinch-android-rtc-3.8.0-VIDEO-SNAPSHOT/samples/sinch-rtc-sample-video/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dfaaacd94328fb528eb88c2f0a03a2ce56a4dcd2">
+        <dex dex="/home/mamatha/Downloads/sinch-android-rtc-3.8.0-VIDEO-SNAPSHOT/samples/sinch-rtc-sample-video/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_8ef4c0fef363424a4c75b90602ec915c01aca346/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mamatha/Downloads/sinch-android-rtc-3.8.0-VIDEO-SNAPSHOT/samples/sinch-rtc-sample-video/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/home/mamatha/Downloads/sinch-android-rtc-3.8.0-VIDEO-SNAPSHOT/samples/sinch-rtc-sample-video/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_c06e2049e0cdb96062b32ba100587971a585254d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mamatha/Downloads/sinch-android-rtc-3.8.0-VIDEO-SNAPSHOT/samples/sinch-rtc-sample-video/libs/sinch-android-rtc-3.8.0-VIDEO-SNAPSHOT.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6e60b87f7f39d11d3cf86c07de72f62ef45c6f50">
+        <dex dex="/home/mamatha/Downloads/sinch-android-rtc-3.8.0-VIDEO-SNAPSHOT/samples/sinch-rtc-sample-video/build/intermediates/transforms/dex/debug/folders/1000/2/sinch-android-rtc-3.8.0-VIDEO-SNAPSHOT_2749a0c7be6e8a8413b6598dc6eb16eb78b2df31/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mamatha/Downloads/sinch-android-rtc-3.8.0-VIDEO-SNAPSHOT/samples/sinch-rtc-sample-video/libs/sinch-android-rtc-3.8.0-VIDEO-SNAPSHOT.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6e60b87f7f39d11d3cf86c07de72f62ef45c6f50">
+        <dex dex="/home/mamatha/Downloads/sinch-android-rtc-3.8.0-VIDEO-SNAPSHOT/samples/sinch-rtc-sample-video/build/intermediates/pre-dexed/debug/sinch-android-rtc-3.8.0-VIDEO-SNAPSHOT_2749a0c7be6e8a8413b6598dc6eb16eb78b2df31.jar" />
+    </item>
+
+</items>

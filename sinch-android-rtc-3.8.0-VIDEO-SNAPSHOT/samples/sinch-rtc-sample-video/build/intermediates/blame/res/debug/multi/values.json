@@ -1,0 +1,304 @@
+[
+    {
+        "outputFile": "/home/mamatha/Downloads/sinch-android-rtc-3.8.0-VIDEO-SNAPSHOT/samples/sinch-rtc-sample-video/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 39,
+                    "endOffset": 90
+                },
+                "from": {
+                    "file": "/home/mamatha/Downloads/sinch-android-rtc-3.8.0-VIDEO-SNAPSHOT/samples/sinch-rtc-sample-video/res/values/colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 95,
+                    "endColumn": 39,
+                    "endOffset": 130
+                },
+                "from": {
+                    "file": "/home/mamatha/Downloads/sinch-android-rtc-3.8.0-VIDEO-SNAPSHOT/samples/sinch-rtc-sample-video/res/values/colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 135,
+                    "endColumn": 39,
+                    "endOffset": 170
+                },
+                "from": {
+                    "file": "/home/mamatha/Downloads/sinch-android-rtc-3.8.0-VIDEO-SNAPSHOT/samples/sinch-rtc-sample-video/res/values/colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 175,
+                    "endColumn": 39,
+                    "endOffset": 210
+                },
+                "from": {
+                    "file": "/home/mamatha/Downloads/sinch-android-rtc-3.8.0-VIDEO-SNAPSHOT/samples/sinch-rtc-sample-video/res/values/colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 215,
+                    "endColumn": 39,
+                    "endOffset": 250
+                },
+                "from": {
+                    "file": "/home/mamatha/Downloads/sinch-android-rtc-3.8.0-VIDEO-SNAPSHOT/samples/sinch-rtc-sample-video/res/values/colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 255,
+                    "endColumn": 39,
+                    "endOffset": 290
+                },
+                "from": {
+                    "file": "/home/mamatha/Downloads/sinch-android-rtc-3.8.0-VIDEO-SNAPSHOT/samples/sinch-rtc-sample-video/res/values/colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 295,
+                    "endColumn": 43,
+                    "endOffset": 334
+                },
+                "from": {
+                    "file": "/home/mamatha/Downloads/sinch-android-rtc-3.8.0-VIDEO-SNAPSHOT/samples/sinch-rtc-sample-video/res/values/colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 339,
+                    "endColumn": 44,
+                    "endOffset": 379
+                },
+                "from": {
+                    "file": "/home/mamatha/Downloads/sinch-android-rtc-3.8.0-VIDEO-SNAPSHOT/samples/sinch-rtc-sample-video/res/values/colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 384,
+                    "endColumn": 42,
+                    "endOffset": 422
+                },
+                "from": {
+                    "file": "/home/mamatha/Downloads/sinch-android-rtc-3.8.0-VIDEO-SNAPSHOT/samples/sinch-rtc-sample-video/res/values/colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 427,
+                    "endColumn": 39,
+                    "endOffset": 462
+                },
+                "from": {
+                    "file": "/home/mamatha/Downloads/sinch-android-rtc-3.8.0-VIDEO-SNAPSHOT/samples/sinch-rtc-sample-video/res/values/colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 467,
+                    "endColumn": 40,
+                    "endOffset": 503
+                },
+                "from": {
+                    "file": "/home/mamatha/Downloads/sinch-android-rtc-3.8.0-VIDEO-SNAPSHOT/samples/sinch-rtc-sample-video/res/values/colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 508,
+                    "endColumn": 40,
+                    "endOffset": 544
+                },
+                "from": {
+                    "file": "/home/mamatha/Downloads/sinch-android-rtc-3.8.0-VIDEO-SNAPSHOT/samples/sinch-rtc-sample-video/res/values/colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 549,
+                    "endColumn": 43,
+                    "endOffset": 588
+                },
+                "from": {
+                    "file": "/home/mamatha/Downloads/sinch-android-rtc-3.8.0-VIDEO-SNAPSHOT/samples/sinch-rtc-sample-video/res/values/colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 593,
+                    "endColumn": 44,
+                    "endOffset": 633
+                },
+                "from": {
+                    "file": "/home/mamatha/Downloads/sinch-android-rtc-3.8.0-VIDEO-SNAPSHOT/samples/sinch-rtc-sample-video/res/values/colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 638,
+                    "endColumn": 45,
+                    "endOffset": 679
+                },
+                "from": {
+                    "file": "/home/mamatha/Downloads/sinch-android-rtc-3.8.0-VIDEO-SNAPSHOT/samples/sinch-rtc-sample-video/res/values/colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 684,
+                    "endColumn": 39,
+                    "endOffset": 719
+                },
+                "from": {
+                    "file": "/home/mamatha/Downloads/sinch-android-rtc-3.8.0-VIDEO-SNAPSHOT/samples/sinch-rtc-sample-video/res/values/colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 724,
+                    "endColumn": 46,
+                    "endOffset": 766
+                },
+                "from": {
+                    "file": "/home/mamatha/Downloads/sinch-android-rtc-3.8.0-VIDEO-SNAPSHOT/samples/sinch-rtc-sample-video/res/values/colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 771,
+                    "endColumn": 45,
+                    "endOffset": 812
+                },
+                "from": {
+                    "file": "/home/mamatha/Downloads/sinch-android-rtc-3.8.0-VIDEO-SNAPSHOT/samples/sinch-rtc-sample-video/res/values/colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 817,
+                    "endColumn": 44,
+                    "endOffset": 857
+                },
+                "from": {
+                    "file": "/home/mamatha/Downloads/sinch-android-rtc-3.8.0-VIDEO-SNAPSHOT/samples/sinch-rtc-sample-video/res/values/colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 862,
+                    "endColumn": 51,
+                    "endOffset": 909
+                },
+                "from": {
+                    "file": "/home/mamatha/Downloads/sinch-android-rtc-3.8.0-VIDEO-SNAPSHOT/samples/sinch-rtc-sample-video/res/values/colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 914,
+                    "endColumn": 43,
+                    "endOffset": 953
+                },
+                "from": {
+                    "file": "/home/mamatha/Downloads/sinch-android-rtc-3.8.0-VIDEO-SNAPSHOT/samples/sinch-rtc-sample-video/res/values/colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 958,
+                    "endColumn": 50,
+                    "endOffset": 1004
+                },
+                "from": {
+                    "file": "/home/mamatha/Downloads/sinch-android-rtc-3.8.0-VIDEO-SNAPSHOT/samples/sinch-rtc-sample-video/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 50,
+                        "endOffset": 102
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1009,
+                    "endLine": 26,
+                    "endColumn": 12,
+                    "endOffset": 1098
+                },
+                "from": {
+                    "file": "/home/mamatha/Downloads/sinch-android-rtc-3.8.0-VIDEO-SNAPSHOT/samples/sinch-rtc-sample-video/res/values/styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1103,
+                    "endLine": 29,
+                    "endColumn": 12,
+                    "endOffset": 1170
+                },
+                "from": {
+                    "file": "/home/mamatha/Downloads/sinch-android-rtc-3.8.0-VIDEO-SNAPSHOT/samples/sinch-rtc-sample-video/res/values/styles.xml"
+                }
+            }
+        ]
+    }
+]

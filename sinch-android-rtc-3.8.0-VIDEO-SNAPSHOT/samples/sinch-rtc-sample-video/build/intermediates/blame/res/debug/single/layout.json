@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/mamatha/Downloads/sinch-android-rtc-3.8.0-VIDEO-SNAPSHOT/samples/sinch-rtc-sample-video/build/intermediates/res/merged/debug/layout/login.xml",
+        "source": "/home/mamatha/Downloads/sinch-android-rtc-3.8.0-VIDEO-SNAPSHOT/samples/sinch-rtc-sample-video/res/layout/login.xml"
+    },
+    {
+        "merged": "/home/mamatha/Downloads/sinch-android-rtc-3.8.0-VIDEO-SNAPSHOT/samples/sinch-rtc-sample-video/build/intermediates/res/merged/debug/layout/incoming.xml",
+        "source": "/home/mamatha/Downloads/sinch-android-rtc-3.8.0-VIDEO-SNAPSHOT/samples/sinch-rtc-sample-video/res/layout/incoming.xml"
+    },
+    {
+        "merged": "/home/mamatha/Downloads/sinch-android-rtc-3.8.0-VIDEO-SNAPSHOT/samples/sinch-rtc-sample-video/build/intermediates/res/merged/debug/layout/main.xml",
+        "source": "/home/mamatha/Downloads/sinch-android-rtc-3.8.0-VIDEO-SNAPSHOT/samples/sinch-rtc-sample-video/res/layout/main.xml"
+    },
+    {
+        "merged": "/home/mamatha/Downloads/sinch-android-rtc-3.8.0-VIDEO-SNAPSHOT/samples/sinch-rtc-sample-video/build/intermediates/res/merged/debug/layout/callscreen.xml",
+        "source": "/home/mamatha/Downloads/sinch-android-rtc-3.8.0-VIDEO-SNAPSHOT/samples/sinch-rtc-sample-video/res/layout/callscreen.xml"
+    }
+]

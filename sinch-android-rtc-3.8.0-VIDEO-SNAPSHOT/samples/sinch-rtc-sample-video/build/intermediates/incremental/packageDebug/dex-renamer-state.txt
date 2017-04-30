@@ -1,0 +1,7 @@
+#Sun Apr 30 01:30:14 IST 2017
+base.0=/home/mamatha/Downloads/sinch-android-rtc-3.8.0-VIDEO-SNAPSHOT/samples/sinch-rtc-sample-video/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_c06e2049e0cdb96062b32ba100587971a585254d
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/mamatha/Downloads/sinch-android-rtc-3.8.0-VIDEO-SNAPSHOT/samples/sinch-rtc-sample-video/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_8ef4c0fef363424a4c75b90602ec915c01aca346/classes.dex
+base.1=/home/mamatha/Downloads/sinch-android-rtc-3.8.0-VIDEO-SNAPSHOT/samples/sinch-rtc-sample-video/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_8ef4c0fef363424a4c75b90602ec915c01aca346
+file.0=/home/mamatha/Downloads/sinch-android-rtc-3.8.0-VIDEO-SNAPSHOT/samples/sinch-rtc-sample-video/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_c06e2049e0cdb96062b32ba100587971a585254d/classes.dex

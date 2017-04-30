@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="blue1">#1E3C5B</color>
+    <color name="blue2">#355A81</color>
+    <color name="blue3">#4372A3</color>
+    <color name="blue4">#4685C7</color>
+    <color name="blue5">#689FD9</color>
+    <color name="blue6">#1E4C7B</color>
+    <color name="dark_blue">#154360</color>
+    <color name="dark_green">#0E6251</color>
+    <color name="dark_red">#641E16</color>
+    <color name="green">#76D7C4</color>
+    <color name="green1">#0D4214</color>
+    <color name="green2">#0B5715</color>
+    <color name="greyish">#fff2f1f2</color>
+    <color name="light_grey">#F4F6F6</color>
+    <color name="off_white">#fffafafa</color>
+    <color name="peach">#FBEEE6</color>
+    <color name="sinch_purple">#2f2a93</color>
+    <color name="sweet_black">#34495E</color>
+    <color name="sweet_blue">#2980B9</color>
+    <color name="sweet_light_brown">#D98880</color>
+    <color name="sweet_red">#935116</color>
+    <string name="app_name">Friendzzz App</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light.NoTitleBar">
+        
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        
+    </style>
+</resources>

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/mamatha/Downloads/sinch-android-rtc-3.8.0-VIDEO-SNAPSHOT/samples/sinch-rtc-sample-video/build/intermediates/res/merged/debug/drawable-xhdpi/callbg.9.png",
+        "source": "/home/mamatha/Downloads/sinch-android-rtc-3.8.0-VIDEO-SNAPSHOT/samples/sinch-rtc-sample-video/res/drawable-xhdpi/callbg.9.png"
+    },
+    {
+        "merged": "/home/mamatha/Downloads/sinch-android-rtc-3.8.0-VIDEO-SNAPSHOT/samples/sinch-rtc-sample-video/build/intermediates/res/merged/debug/drawable-xhdpi/startbg.9.png",
+        "source": "/home/mamatha/Downloads/sinch-android-rtc-3.8.0-VIDEO-SNAPSHOT/samples/sinch-rtc-sample-video/res/drawable-xhdpi/startbg.9.png"
+    },
+    {
+        "merged": "/home/mamatha/Downloads/sinch-android-rtc-3.8.0-VIDEO-SNAPSHOT/samples/sinch-rtc-sample-video/build/intermediates/res/merged/debug/drawable-xhdpi/ic_action_name.png",
+        "source": "/home/mamatha/Downloads/sinch-android-rtc-3.8.0-VIDEO-SNAPSHOT/samples/sinch-rtc-sample-video/res/drawable-xhdpi/ic_action_name.png"
+    }
+]

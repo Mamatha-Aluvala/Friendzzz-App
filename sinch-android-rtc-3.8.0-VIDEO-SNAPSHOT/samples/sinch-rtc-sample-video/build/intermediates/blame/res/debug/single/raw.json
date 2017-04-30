@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/mamatha/Downloads/sinch-android-rtc-3.8.0-VIDEO-SNAPSHOT/samples/sinch-rtc-sample-video/build/intermediates/res/merged/debug/raw/progress_tone.wav",
+        "source": "/home/mamatha/Downloads/sinch-android-rtc-3.8.0-VIDEO-SNAPSHOT/samples/sinch-rtc-sample-video/res/raw/progress_tone.wav"
+    },
+    {
+        "merged": "/home/mamatha/Downloads/sinch-android-rtc-3.8.0-VIDEO-SNAPSHOT/samples/sinch-rtc-sample-video/build/intermediates/res/merged/debug/raw/phone_loud1.mp3",
+        "source": "/home/mamatha/Downloads/sinch-android-rtc-3.8.0-VIDEO-SNAPSHOT/samples/sinch-rtc-sample-video/res/raw/phone_loud1.mp3"
+    }
+]
